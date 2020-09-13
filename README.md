@@ -16,9 +16,9 @@ You can now delete `envvars.txt`
 
 `docker run --name docker-vrops-monitor -d  docker-vrops-monitor`
 
-To check the container for errors : `docker logs docker-vrops-monitor
+To check the container for errors : `docker logs docker-vrops-monitor`
 
-The default securityEngineId is 0102030405060708
+The default securityEngineId is `0102030405060708`
 
 If you require a differnet EngineID edit the following line in main.py before building.
 
