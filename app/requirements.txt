@@ -1,0 +1,3 @@
+requests==2.18.4
+pysnmp==4.4.12
+psutil==5.7.2
