@@ -4,9 +4,6 @@
 If there is any issue reaching the API or any of the services are down, 
 Send a SNMPv3 trap to the configured SNMP manager**
 
-
-
-
 Install git and docker, make sure docker service is running.
 
 `git clone https://github.com/BobbyLeonard/docker-vrops-monitor.git`
